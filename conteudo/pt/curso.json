@@ -3,34 +3,65 @@
   "lang": "pt-BR",
   "url": "https://inematds.github.io/formacao-vendas-ia-oportunidades-v72/",
   "nome": "Vendas com IA 1 · 43 Oportunidades",
-  "sub": "Visão geral da formação",
+  "sub": "Formação Vendas com IA · curso 1 de 5",
   "volta": {
-    "t": "Área Do chat ao agente",
-    "href": "https://eventos.inema.pro/do-chat-ao-agente/"
+    "t": "Área Consultoria de IA",
+    "href": "https://eventos.inema.pro/consultoria-ia/"
   },
   "lado_card": {
-    "rot": "Prática desta formação",
-    "t": "23 exercícios com \"pronto quando\"",
-    "texto": "Quatro listas, uma por sequência. Só passe para o próximo quando ele for verdade.",
-    "link": "Abrir os exercícios",
-    "href": "https://inematds.github.io/jornada-agentes/guia/"
+    "rot": "Formação Vendas com IA",
+    "t": "Curso 1 de 5",
+    "texto": "Na ordem sugerida, o próximo é o curso 3: a identidade de quem vende confiança e diz o que sabe e o que não sabe.",
+    "link": "Ir para o curso 3",
+    "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/"
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/do-chat-ao-agente/\">eventos.inema.pro/do-chat-ao-agente</a> · <a href=\"https://inema.club/\">inema.club</a> · <a href=\"https://www.inema.club/cursos/323-do-chat-ao-agente-terminal-assistente-proprio-filas-e-redes-no-automatico/\">Ficha completa deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a>",
+  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/consultoria-ia/\">eventos.inema.pro/consultoria-ia</a> · <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a>",
   "videos": {},
   "inicio": {
-    "kicker": "Curso · visão geral da formação · 6 aulas",
-    "titulo": "Do chat ao agente: os quatro degraus para colocar IA trabalhando por você",
-    "lead": "Terminal, assistente próprio, fila de tarefas e redes no automático. Em seis aulas curtas você entende cada degrau, vê como as peças se ligam e sai com o plano e os modelos para fazer na ordem certa.",
+    "kicker": "Formação Vendas com IA · curso 1 de 5 · 8 aulas",
+    "titulo": "43 Oportunidades: escolha o seu papel",
+    "lead": "Construir ficou fácil. Confiar no que foi construído, não. Em oito aulas você passa as 43 oportunidades de vender IA por um filtro de cinco caixas: Consultor, Auditor, Mentor, Treinador ou construção que perde valor. Sai com um papel escolhido e um plano de 30 dias.",
     "cta": "Começar pela aula 1",
     "cta2": {
-      "t": "Ver a área da formação",
-      "href": "https://eventos.inema.pro/do-chat-ao-agente/"
+      "t": "Ver a área Consultoria de IA",
+      "href": "https://eventos.inema.pro/consultoria-ia/"
     },
-    "capa_alt": "Do chat ao agente: a jornada em quatro sequências — terminal, Jarvis, filas e redes.",
-    "numeros": [],
+    "capa_alt": "Mesa vista de cima com cartões de papel em cinco colunas e o título 43 Oportunidades.",
+    "numeros": [
+      {"v": "43", "t": "oportunidades classificadas"},
+      {"v": "5", "t": "caixas no filtro"},
+      {"v": "17", "t": "exercícios práticos"},
+      {"v": "1", "t": "conversa simulada"}
+    ],
     "aulas_titulo": "As aulas",
-    "aulas_sub": "Uma visão geral por degrau. A prática completa de cada degrau fica nos exercícios e nos cursos de cada sequência.",
-    "blocos": []
+    "aulas_sub": "Primeiro o filtro e o funil. Depois as 43, em seis grupos. No fim, um papel e um plano de 30 dias.",
+    "blocos": [
+      {
+        "t": "Para quem é",
+        "itens": [
+          "Quem quer vender serviços de IA para empresas e ainda não sabe por onde começar.",
+          "Quem já constrói sites, agentes ou automações e sente que compete só por preço.",
+          "Quem quer escolher um papel de confiança em vez de seguir a oportunidade da moda."
+        ]
+      },
+      {
+        "t": "O que você sai fazendo",
+        "itens": [
+          "Classificar qualquer oportunidade numa das cinco caixas e cortar pelos cinco critérios.",
+          "Conduzir a conversa de diagnóstico de 15 minutos e propor o próximo passo pago.",
+          "Transformar uma construção (site, agendamento, loja) em parte de um serviço de confiança.",
+          "Sair com um papel escolhido e um plano de 30 dias com metas em número."
+        ]
+      },
+      {
+        "t": "Onde este curso entra no Profissional 2030",
+        "itens": [
+          "O <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> tem quatro papéis: Consultor, Auditor, Mentor e Treinador. Os quatro vendem confiança, não construção.",
+          "Este curso é a porta de entrada: mostra os quatro papéis nas 43 oportunidades para você escolher o seu.",
+          "Base comum que ele usa: IA sem exagero, e ética e limites (dizer o que você não faz)."
+        ]
+      }
+    ]
   },
   "ui": {
     "pular": "Pular para o conteúdo",
@@ -135,5 +166,5 @@
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   },
-  "icone": "camadas"
+  "icone": "alvo"
 }
